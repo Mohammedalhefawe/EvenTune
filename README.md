@@ -1,2 +1,2 @@
-![Logo](workout.png)
+![Logo](EventTune.png)
 # :sparkles::sparkles: EvenTune
